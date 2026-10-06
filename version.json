@@ -1,9 +1,9 @@
 {
-    "version": "26.10.5",
-    "setup_file": "LUMA_Setup_v26.10.5.exe",
+    "version": "26.10.6",
+    "setup_file": "LUMA_Setup_v26.10.6.exe",
     "min_supported": "26.0.0",
-    "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.5/LUMA_Setup_v26.10.5.exe",
-    "release_notes": "update",
-    "sha256": "fd9b596203e87b727fe8ee1f195c0bcf54e4e595d401a6b7210d10214cfd5183",
-    "setup_size": 279020195
+    "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.6/LUMA_Setup_v26.10.6.exe",
+    "release_notes": "Update",
+    "sha256": "995b51d31946e35113fc0d5955ed07be1351012b793f14f5469c3e55dcc988c7",
+    "setup_size": 536497599
 }
