@@ -1,9 +1,15 @@
 {
-    "version": "26.10.11",
-    "setup_file": "LUMA_Setup_v26.10.11.exe",
-    "min_supported": "26.0.0",
-    "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.11/LUMA_Setup_v26.10.11.exe",
-    "release_notes": "- Performance improvements and stability enhancements\n- Bug fixes and optimizations",
-    "sha256": "e605e060c21cdc335ed4cacf18a7902f1dbf3fdc24c8d177fe67430b14e304e3",
-    "setup_size": 538787243
+    "payload": {
+        "kind": "update",
+        "product": "system",
+        "version": "26.10.16",
+        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.16/LUMA_Setup_v26.10.16.exe",
+        "sha256": "52a2c7cdb2ac3ba1b009fbb2422bb00380cee2ff91db246dc9e05d8b2a68f0d9",
+        "size": 612805339,
+        "issued_at": 1792168328,
+        "expires_at": 1794760328,
+        "release_notes": "- More reliable app setup and updates.\n- Includes current production, accounting and Photoshop fixes.\n- One Setup supports both 32-bit and 64-bit Windows.\nOlder System versions without update trust must install this Setup manually once."
+    },
+    "key_id": "luma-system-update-20261016",
+    "signature": "4yYxesHurMR7q5Hw4qjUIyTVGJBVKkjHfIktN1IwHDLp3rXUJA6Ju054K4Ab52493sZ5rZkSO5l5EH5ouO04AQ=="
 }
