@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "system",
-        "version": "26.10.17",
-        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.17/LUMA_Setup_v26.10.17.exe",
-        "sha256": "ba357135b6210ce7e7709abbc260109791c443ca21a287fb58e8d4caaa52721e",
-        "size": 612814041,
-        "issued_at": 1792220114,
-        "expires_at": 1794812114,
-        "release_notes": "- One application session; repeated launch restores the existing window.\n- Immediate visible startup and reliable tray/complete-exit behavior.\n- Private worker cleanup and faster internal worker launches.\n- Starts at Windows sign-in after installation.\n- Password-protected encrypted installer; ask the owner for the password.\n- Signed updates and payload integrity verification retained."
+        "version": "26.10.18",
+        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.18/LUMA_Setup_v26.10.18.exe",
+        "sha256": "94cbb22372584f12d7fca6daf84b58029ed8ab3fd73552fc93d840534b13a08c",
+        "size": 612821822,
+        "issued_at": 1792240291,
+        "expires_at": 1794832291,
+        "release_notes": "- One application session; repeated launch restores the existing window.\n- Immediate visible startup and reliable tray/complete-exit behavior.\n- Private worker cleanup and faster internal worker launches.\n- Starts at Windows sign-in after installation.\n- Silent in-app updates with automatic installer password; Windows elevation consent remains OS-controlled.\n- Signed updates and payload integrity verification retained."
     },
     "key_id": "luma-system-update-20261016",
-    "signature": "A016lQoSvz8RJLQbsesGma+8Yp/ShcJAwwWgN32Sn1YokutoVU9JDGDKJUS0TVn4Yl2yh/kKFj15MPFrlKutDw=="
+    "signature": "Dgprs16OYR0CYV6yYx7PIf9pjpgE+4CjwokSQ62EFKjy4egSjXDObJZkCVQvBPd4aPfSaFPBmAJwTI7XoRWLDA=="
 }
