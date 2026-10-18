@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "system",
-        "version": "26.10.18",
-        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.18/LUMA_Setup_v26.10.18.exe",
-        "sha256": "94cbb22372584f12d7fca6daf84b58029ed8ab3fd73552fc93d840534b13a08c",
-        "size": 612821822,
-        "issued_at": 1792240291,
-        "expires_at": 1794832291,
-        "release_notes": "- One application session; repeated launch restores the existing window.\n- Immediate visible startup and reliable tray/complete-exit behavior.\n- Private worker cleanup and faster internal worker launches.\n- Starts at Windows sign-in after installation.\n- Silent in-app updates with automatic installer password; Windows elevation consent remains OS-controlled.\n- Signed updates and payload integrity verification retained."
+        "version": "26.10.19",
+        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.19/LUMA_Setup_v26.10.19.exe",
+        "sha256": "f3214fa6fbb32b6b3850fda5cc716c61a4b37f68a7178ad0eb78be1d04ab8534",
+        "size": 612853523,
+        "issued_at": 1792365422,
+        "expires_at": 1794957422,
+        "release_notes": "- Shared files: authenticated Trash/Restore from any paired computer, offline reconciliation, and Add propagation.\n- Persistent per-file color marks: presets, custom color, clear, and peer synchronization.\n- Nested output deletion or Old Download completion updates System Successfully, including verified shared copies.\n- Automatic System-to-System discovery and pairing without connection files or prompts.\n- Silent updates, installer password, single-instance lifecycle and signed payload checks retained."
     },
     "key_id": "luma-system-update-20261016",
-    "signature": "Dgprs16OYR0CYV6yYx7PIf9pjpgE+4CjwokSQ62EFKjy4egSjXDObJZkCVQvBPd4aPfSaFPBmAJwTI7XoRWLDA=="
+    "signature": "mu1XzUsPbc4Av3lh+19fT8CqFbNOnSf2FbsTBFn9w7Kz5gJlL4pfGbWe4Pj8TepKVY4ke+pBc+aqcaGIXZYmCw=="
 }
