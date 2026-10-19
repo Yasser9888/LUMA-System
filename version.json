@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "system",
-        "version": "26.10.20",
-        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.20/LUMA_Setup_v26.10.20.exe",
-        "sha256": "441c618b9269c13703e38f842b0475a3dc36044904ca5ff2b6e4239d4327d915",
-        "size": 612902204,
-        "issued_at": 1792403263,
-        "expires_at": 1794995263,
-        "release_notes": "- Verify signed updates and valid hardware-bound licenses using trusted server time; Windows clock drift no longer creates a redundant application lockout.\n- Network and System update checks use bounded pinned raw/API fallback and actionable connection/TLS/signature errors.\n- System shows real downloaded MB, total and speed, supports cancellation and Retry, and starts the verified installer silently.\n- Recoverable System startup verification failures remain visible with safe retry; invalid, expired and revoked licenses stay refused.\n- Network keeps resume metadata in its private profile and hides reserved internal sidecars while preserving genuine user JSON and unfinished transfers.\n- Production downloads use readable flat filenames; existing artwork and edits are preserved, and only exact empty legacy internal folders are cleaned.\n- Existing shared Add/Delete/Restore, file color marks, generated Nest output completion, automatic System pairing, single-instance startup, installer password and signed payload protection are retained."
+        "version": "26.10.21",
+        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.21/LUMA_Setup_v26.10.21.exe",
+        "sha256": "e5ce1569064965ee12249825dbde6657c4d2796f38300f03f51bd42c29cb85dc",
+        "size": 613086015,
+        "issued_at": 1792414809,
+        "expires_at": 1795006809,
+        "release_notes": "Automatic LAN connections: no operator PIN, pairing token, connection file or Connect button. System computers discover and authenticate each other, prefer the live Master, retain Client connections/read-only fallback when Master is absent and return automatically. Network keeps separate protected connections/outboxes for every available System, polls Clients while Master is offline and replays saved original-owner updates when it returns. Replicated record UUIDs appear once; completed work cannot reopen from a stale replica. Installer adds application/LocalSubnet-scoped discovery and transfer rules for all Windows network profiles. Existing trusted server time signed updates, real progress/Retry/cancel, private resume metadata, readable downloads, colors, file state and Nest completion fixes retained.\nAutomatic bridge recovery when the LAN adapter arrives after startup or its private address changes, without resetting independent printer keys, durable jobs or queued completion. Discovery collects all UDP replies before bounded parallel authentication, so a slow peer cannot consume the receive window of other Clients."
     },
     "key_id": "luma-system-update-20261016",
-    "signature": "0FvlGzeMhfCfr/S2q/82V8PJmfzMefTWJU5VEgBkUlk8sf/0MhUP+qZ2SZmZ4TUy0XoXTyhWtG3czKCJ8rfJCw=="
+    "signature": "BzTz8ymtzgPlaxmwCMAPQehI+RBe+2zQLFBAqmB4AFeVpGcJK0ZNSIwfJBOPIkBS+Pp/VpmcqVsi9zRyEjDiDg=="
 }
