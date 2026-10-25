@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "system",
-        "version": "26.10.21",
-        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.21/LUMA_Setup_v26.10.21.exe",
-        "sha256": "e5ce1569064965ee12249825dbde6657c4d2796f38300f03f51bd42c29cb85dc",
-        "size": 613086015,
-        "issued_at": 1792414809,
-        "expires_at": 1795006809,
-        "release_notes": "Automatic LAN connections: no operator PIN, pairing token, connection file or Connect button. System computers discover and authenticate each other, prefer the live Master, retain Client connections/read-only fallback when Master is absent and return automatically. Network keeps separate protected connections/outboxes for every available System, polls Clients while Master is offline and replays saved original-owner updates when it returns. Replicated record UUIDs appear once; completed work cannot reopen from a stale replica. Installer adds application/LocalSubnet-scoped discovery and transfer rules for all Windows network profiles. Existing trusted server time signed updates, real progress/Retry/cancel, private resume metadata, readable downloads, colors, file state and Nest completion fixes retained.\nAutomatic bridge recovery when the LAN adapter arrives after startup or its private address changes, without resetting independent printer keys, durable jobs or queued completion. Discovery collects all UDP replies before bounded parallel authentication, so a slow peer cannot consume the receive window of other Clients."
+        "version": "26.10.26",
+        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.26/LUMA_Setup_v26.10.26.exe",
+        "sha256": "89da5ac99f4c62ecb55521c252c955dd14464f583c13e65a824a523f43059567",
+        "size": 613151933,
+        "issued_at": 1792968699,
+        "expires_at": 1795560699,
+        "release_notes": "- Performance improvements and stability enhancements\n- Bug fixes and optimizations"
     },
     "key_id": "luma-system-update-20261016",
-    "signature": "BzTz8ymtzgPlaxmwCMAPQehI+RBe+2zQLFBAqmB4AFeVpGcJK0ZNSIwfJBOPIkBS+Pp/VpmcqVsi9zRyEjDiDg=="
+    "signature": "m/4rlFapuiHRLiELmWMzwOMB/+ZUJM8wwgBSoZ2SubauiKjV25dRIlDdzXJl0oHIFHAMRaXu6JzBfQqclwMGDQ=="
 }
