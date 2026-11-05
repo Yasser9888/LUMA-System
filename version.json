@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "system",
-        "version": "26.10.26",
-        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.10.26/LUMA_Setup_v26.10.26.exe",
-        "sha256": "89da5ac99f4c62ecb55521c252c955dd14464f583c13e65a824a523f43059567",
-        "size": 613151933,
-        "issued_at": 1792968699,
-        "expires_at": 1795560699,
-        "release_notes": "- Performance improvements and stability enhancements\n- Bug fixes and optimizations"
+        "version": "26.11.5",
+        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.11.5/LUMA_Setup_v26.11.5.exe",
+        "sha256": "979a3000b0b41c4958925fa831501aba75649ce03d54507d21258ecbdbe7118c",
+        "size": 615202950,
+        "issued_at": 1793884775,
+        "expires_at": 1796476775,
+        "release_notes": "- Synchronized payments, salaries, expenses, invoices, customer changes and stock across connected computers.\n- Durable pending changes, safe retry after reconnect and protection against duplicate payments.\n- Correct salary advances and original USD/IQD invoice amounts.\n- Stable Finance refresh, clearer synchronization history and safer job/file handling.\n- Database archive, import and restore run on the Master to preserve consistent copies.\n\n- Keep financial confirmations responsive and complete synchronized saves safely after their dialogs close.\n"
     },
     "key_id": "luma-system-update-20261016",
-    "signature": "m/4rlFapuiHRLiELmWMzwOMB/+ZUJM8wwgBSoZ2SubauiKjV25dRIlDdzXJl0oHIFHAMRaXu6JzBfQqclwMGDQ=="
+    "signature": "mn23ZXzIlo6ETJN9oK/bI0W03UrOMKZH7Bz/G0glJ3Lq7ukFhltsB1zM1O1gHdR/n3Z1JBRFsM9TGlJ4DXNlBQ=="
 }
