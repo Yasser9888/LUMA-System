@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "system",
-        "version": "26.11.5",
-        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.11.5/LUMA_Setup_v26.11.5.exe",
-        "sha256": "979a3000b0b41c4958925fa831501aba75649ce03d54507d21258ecbdbe7118c",
-        "size": 615202950,
-        "issued_at": 1793884775,
-        "expires_at": 1796476775,
-        "release_notes": "- Synchronized payments, salaries, expenses, invoices, customer changes and stock across connected computers.\n- Durable pending changes, safe retry after reconnect and protection against duplicate payments.\n- Correct salary advances and original USD/IQD invoice amounts.\n- Stable Finance refresh, clearer synchronization history and safer job/file handling.\n- Database archive, import and restore run on the Master to preserve consistent copies.\n\n- Keep financial confirmations responsive and complete synchronized saves safely after their dialogs close.\n"
+        "version": "26.11.10",
+        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.11.10/LUMA_Setup_v26.11.10.exe",
+        "sha256": "60cb1995ac76c7bfc9e610d557c8fa055d6a7d0004335b647c9f730bf16e5e71",
+        "size": 615305170,
+        "issued_at": 1794398157,
+        "expires_at": 1796990157,
+        "release_notes": "- A print job stays Pending until an eligible remote Network PC displays it. The designer PC cannot acknowledge its own job.\n- Each authorized printer can download an original on demand. An interrupted transfer leaves the job available to other printers.\n- Verified download receipts and exact roll manifests let another printer complete the correct job by moving its downloaded file or generated roll into Old Download.\n- Each source tracks the roll parts that contain it, so archiving an unrelated roll leaves the other jobs in their correct states.\n"
     },
     "key_id": "luma-system-update-20261016",
-    "signature": "mn23ZXzIlo6ETJN9oK/bI0W03UrOMKZH7Bz/G0glJ3Lq7ukFhltsB1zM1O1gHdR/n3Z1JBRFsM9TGlJ4DXNlBQ=="
+    "signature": "qYgFXihgHYrVAA/lAACzot6zY0fAsDrknuDmV1yIR0lO34rXyd19uqM+25EoMsUeMItEwN/ecMfX3T1NBqLXCA=="
 }
