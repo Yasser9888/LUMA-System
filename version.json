@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "system",
-        "version": "26.11.10",
-        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.11.10/LUMA_Setup_v26.11.10.exe",
-        "sha256": "60cb1995ac76c7bfc9e610d557c8fa055d6a7d0004335b647c9f730bf16e5e71",
-        "size": 615305170,
-        "issued_at": 1794398157,
-        "expires_at": 1796990157,
-        "release_notes": "- A print job stays Pending until an eligible remote Network PC displays it. The designer PC cannot acknowledge its own job.\n- Each authorized printer can download an original on demand. An interrupted transfer leaves the job available to other printers.\n- Verified download receipts and exact roll manifests let another printer complete the correct job by moving its downloaded file or generated roll into Old Download.\n- Each source tracks the roll parts that contain it, so archiving an unrelated roll leaves the other jobs in their correct states.\n"
+        "version": "26.11.13",
+        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.11.13/LUMA_Setup_v26.11.13.exe",
+        "sha256": "d6b1d9c6bf4c442e5f370f37acb932dbabf6c3878bf2cdb7dd1b66d5a14db6a0",
+        "size": 615330685,
+        "issued_at": 1794479257,
+        "expires_at": 1797071257,
+        "release_notes": "Repairs the physical material and roll catalogue sent to LUMA Network, including designer-host catalogue access, so Nesting can receive saved material names and roll widths.\n\nShares recoverable Trash and Restore state for production jobs with connected printers.\n"
     },
     "key_id": "luma-system-update-20261016",
-    "signature": "qYgFXihgHYrVAA/lAACzot6zY0fAsDrknuDmV1yIR0lO34rXyd19uqM+25EoMsUeMItEwN/ecMfX3T1NBqLXCA=="
+    "signature": "+Fm/wW75VnFZKCOWVJ6a+IBkQMsuUq9PXW7tIy5u89G89RvH/123n0+kyh/Cf4sdkIWoYxTvvCGFyKyfmxzODA=="
 }
