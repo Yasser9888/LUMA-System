@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "system",
-        "version": "26.11.13",
-        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.11.13/LUMA_Setup_v26.11.13.exe",
-        "sha256": "d6b1d9c6bf4c442e5f370f37acb932dbabf6c3878bf2cdb7dd1b66d5a14db6a0",
-        "size": 615330685,
-        "issued_at": 1794479257,
-        "expires_at": 1797071257,
-        "release_notes": "Repairs the physical material and roll catalogue sent to LUMA Network, including designer-host catalogue access, so Nesting can receive saved material names and roll widths.\n\nShares recoverable Trash and Restore state for production jobs with connected printers.\n"
+        "version": "26.11.21",
+        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.11.21/LUMA_Setup_v26.11.21.exe",
+        "sha256": "6cc4ce954c8c7e8e6849465e6f35753caf24c4d977ff6d61eb27ac5a5ca80be7",
+        "size": 616248302,
+        "issued_at": 1795248192,
+        "expires_at": 1797840192,
+        "release_notes": "LUMA Mobile Internet access\n\n- Connect LUMA Mobile 1.1.0 on iPhone over the Internet or the same Wi-Fi.\n- Browse 22 business sections using the desktop financial, payroll and inventory calculations.\n- Pair with a QR code or connection link and revoke individual phones from System.\n- Keep saved phone connections and reconnect the desktop automatically after Internet interruptions.\n- Open Mobile access from System or with Alt+Shift+M.\n\nSystem and mobile access must remain enabled on a running, Internet-connected computer. The iPhone companion is installed separately.\n\nValidation: 988 source tests, 940 native tests on each Windows architecture, and 11 iPhone tests including a live Internet round trip."
     },
     "key_id": "luma-system-update-20261016",
-    "signature": "+Fm/wW75VnFZKCOWVJ6a+IBkQMsuUq9PXW7tIy5u89G89RvH/123n0+kyh/Cf4sdkIWoYxTvvCGFyKyfmxzODA=="
+    "signature": "Y3LWd6d/96Jb1PjwAnh3yt+580jlpBYVBg8fPKMkJf5keL2VM+x8ASwt2CvRx5iDUHQ44b+HKZDBsV9ZGyg0BQ=="
 }
