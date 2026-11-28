@@ -2,14 +2,14 @@
     "payload": {
         "kind": "update",
         "product": "system",
-        "version": "26.11.21",
-        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.11.21/LUMA_Setup_v26.11.21.exe",
-        "sha256": "6cc4ce954c8c7e8e6849465e6f35753caf24c4d977ff6d61eb27ac5a5ca80be7",
-        "size": 616248302,
-        "issued_at": 1795248192,
-        "expires_at": 1797840192,
-        "release_notes": "LUMA Mobile Internet access\n\n- Connect LUMA Mobile 1.1.0 on iPhone over the Internet or the same Wi-Fi.\n- Browse 22 business sections using the desktop financial, payroll and inventory calculations.\n- Pair with a QR code or connection link and revoke individual phones from System.\n- Keep saved phone connections and reconnect the desktop automatically after Internet interruptions.\n- Open Mobile access from System or with Alt+Shift+M.\n\nSystem and mobile access must remain enabled on a running, Internet-connected computer. The iPhone companion is installed separately.\n\nValidation: 988 source tests, 940 native tests on each Windows architecture, and 11 iPhone tests including a live Internet round trip."
+        "version": "26.11.22",
+        "download_url": "https://github.com/Yasser9888/LUMA-System/releases/download/v26.11.22/LUMA_Setup_v26.11.22.exe",
+        "sha256": "06e9780c1feba12566cc4bb292186e88c4e2a5e0913bc859e08f45bafa2aa5df",
+        "size": 617531879,
+        "issued_at": 1795852306,
+        "expires_at": 1798444306,
+        "release_notes": "LUMA System 26.11.22\n\n- Adds previous-day mobile reports scheduled for 03:00 Asia/Baghdad, with separate discounts, cash, refunds, debt, expenses and stock purchases.\n- Adds registered original-file downloads, chunk/full-file integrity and bounded PSD, PSB, TIFF and PDF previews.\n- Adds authenticated mobile browsing and Rename, recoverable Trash/Restore and Nest commands for a selected LUMA Network computer.\n- Adds durable file events and optional LUMA Alerts Home Screen notifications. iPhone Home Screen installation and notification permission are required.\n\nRequires LUMA Mobile 1.2 or later and LUMA Network 26.11.22 for Network controls. The Windows computer and LUMA System must remain online. No financial-write or permanent-delete mobile action is enabled.\n\nVerified: 1278 full source cases, 993 native cases across 49 suites on each architecture, both real-EXE integrity/tamper gates, 144 current native source/binary bindings, and exact passive extraction of all 4838 universal installer payload entries. Physical multi-PC printing and physical iPhone push delivery remain deployment checks."
     },
     "key_id": "luma-system-update-20261016",
-    "signature": "Y3LWd6d/96Jb1PjwAnh3yt+580jlpBYVBg8fPKMkJf5keL2VM+x8ASwt2CvRx5iDUHQ44b+HKZDBsV9ZGyg0BQ=="
+    "signature": "4JTsRZxhLGj2YfhCqeVaQ9stFOa/g9GqWrIG9J4ABvG6Egd7HFXvQfbz8vSXpn02aY9Klmnye0GxHSi4Ma6xAQ=="
 }
